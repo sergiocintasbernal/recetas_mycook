@@ -6,4 +6,4 @@ Las recetas de la abuela han sido fusionadas con willy wonka y degustadas por Pe
 -trufas
 -tarta de zanahoria 
 ## Primeros Platos 
--slamorejo 
+-salmorejo 
